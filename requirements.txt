@@ -7,3 +7,4 @@ seaborn
 Pillow
 scikit-learn
 ipykernel
+opencv-python
